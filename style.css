@@ -1,0 +1,28 @@
+.travel {
+    background-color: aquamarine;
+    border-radius: 15px;
+
+    overflow: hidden;
+}
+
+.travel h1{
+    text-align: center;
+    border-bottom: 2px solid black;
+    font-family: sans-serif;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+
+.travel img{
+    width: 30%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.note{
+    width: 500px;
+}
+.note p{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
